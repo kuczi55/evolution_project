@@ -1,6 +1,6 @@
 # evolution_project
  
-Po skompilowaniu programu uruchomi się okno z możliwością dostosowania parametrów. Okno po kliknięciu przycisku "Rozpocznij symulację" nie zamyka się, dzięki czemu można równolegle uruchomić symulację z takimi samymi lub innymi parametrami. 
+Po skompilowaniu programu uruchomi się okno z możliwością dostosowania parametrów. Okno po kliknięciu przycisku "Rozpocznij symulację" nie zamyka się, dzięki czemu można równolegle uruchomić symulację z takimi samymi lub innymi parametrami. <br>
 Legenda:
 czerwony owal/okrąg - zwierzątko, którego energia jest poniżej 25% początkowej energii
 żółty owal/okrąg - zwierzątko, którego energia jest poniżej 75% początkowej energii
